@@ -1,0 +1,36 @@
+﻿body {
+    height: 2000px;
+}
+
+.home-top {
+    background-image: url(Homesplash.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    height: 50%;
+    padding: 0px;
+}
+
+.home-bottom {
+    background-image: url(Homesplash2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50%;
+    padding: 0px;
+}
+
+.position {
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    padding: 20% 0;
+}
+
+.large-text {
+    font-size: 100pt;
+    color: darkorange;
+}
+
+.text {
+    color: white;
+    padding: 0 25%;
+}
+
